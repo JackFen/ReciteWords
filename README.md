@@ -1,0 +1,2 @@
+# ReciteWords
+这是一个基于javSwing实现的一个背单词的桌面级应用
