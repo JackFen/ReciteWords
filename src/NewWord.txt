@@ -1,0 +1,7 @@
+pear#梨#n[c]
+orange#橙子#n[c]
+watermelon#西瓜#n[c]
+grape#葡萄#n[c]
+trawberry#草莓#n[c]
+peach#桃#n[c]
+red#红#adj

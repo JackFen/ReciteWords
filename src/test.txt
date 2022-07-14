@@ -1,0 +1,86 @@
+apple#苹果#n[c]#I have an apple.
+banana#香蕉#n[c]#Do you want to have bananas?
+pear#梨#n[c]#The pear is so sweet.
+orange#橙子#n[c]#Oranges are usually sour.
+watermelon#西瓜#n[c]#Watermelen is a good choice in summer.
+grape#葡萄#n[c]#Do you like grapes?
+peach#桃#n[c]#I like peach best.
+trawberry#草莓#n[c]#Trawberry are red.
+beteInut#槟榔#n[u]#Do you like betelnut?
+carambola#杨桃#n[u]#Do you like carambola?
+cherry#樱桃#n[u]#cherry is so delicious.
+chestnut#栗子#n[u]#Do you like chestnut?
+coconut#椰子#n[c]#Do you like coconut？
+cumquat#金桔#n[c]#Do you like cumquat？
+date#枣#n[c]#Do you like date？
+durian#榴莲#n[c]#Do you like durian？
+filbert#榛子#n[u]#Do you like filbert？
+guava#番石榴#n[u]#Do you like guava？
+haw#山楂#n[u]#Do you like haw?
+sapodilla#人参果#n[c]#Do you like sapodilla?
+red#红#adj#I like red best.
+blue#蓝#adj#I like blue best.
+yellow#黄#adj#I like yellow best.
+green#绿#adj#I like green best.
+white#白#adj#I like white best.
+black#黑#adj#I like black best.
+pink#粉红#adj#I like pink best.
+purple#紫#adj#I like purple best.
+orange#橙#adj#I like orange best.
+brown#棕#adj#I like brown best.
+animal#动物#n[c]#What kind of animals do you like?
+cat#猫#n[c]#Do you like cat?
+dog#狗#n[c]#Do you like dog?
+pig#猪#n[c]#Do you like pig?
+duck#鸭#n[c]#Do you like duck?
+rabbit#兔#n[c]#Do you like rabbit?
+horse#马#n[c]#Do you like horse?
+elephant#大象#n[c]#Do you like elephant?
+ant#蚂蚁#n[c]#Do you like ant?
+fish#鱼#n[c]#Do you like fish?
+bird#鸟#n[c]#Do you like bird?
+eagle#鹰#n[c]#Do you like eagle?
+beaver#海狸#n[c]#Do you like beaver?
+snake#蛇#n[c]#Do you like snake?
+mouse#老鼠#n[c]#Do you like mouse?
+squirrel#松鼠#n[c]#Do you like squirrel?
+kangaroo#袋鼠#n[c]#Do you like kangaroo?
+monkey#猴#n[c]#Do you like monkey?
+panda#熊猫#n[c]#Do you like panda?
+bear#熊#n[c]#Do you like bear?
+lion#狮子#n[c]#Do you like lion?
+tiger#老虎#n[c]#Do you like tiger?
+fox#狐狸#n[c]#Do you like fox?
+zebra#斑马#n[c]#Do you like zebra?
+deer#鹿#n[c]#Do you like deer?
+giraffe#长颈鹿#n[c]#Do you like giraffe?
+goose#鹅#n[c]#Do you like goose?
+hen#母鸡#n[c]#Do you like hen?
+turkey#火鸡#n[c]#Do you like turkey?
+lamb#小羊#n[c]#Do you like lamb?
+sheep#绵羊#n[c]#Do you like sheep?
+goat#山羊#n[c]#Do you like goat?
+cow#奶牛#n[c]#Do you like cow?
+donkey#驴#n[c]#Do you like donkey?
+squid#鱿鱼#n[c]#Do you like squid？
+lobster#龙虾#n[c]#Do you like lobster?
+shark#鲨鱼#n[c]#Do you like shark?
+seal#海豹#n[c]#Do you like seal?
+spermwhale#抹香鲸#n[c]#Do you like spermwhale?
+killerwhale#虎鲸#n[c]#Do you like killerwhale?
+people#人物#n[c]#What kind of people is he? 
+friend#朋友#n[c]#We are friends.
+boy#男孩#n[c]#He is a boy.
+girl#女孩#n[c]#She is a girl.
+child#孩子#n[c]#He is a child.
+baby#婴儿#n[c]#It is a baby.
+kid#小孩#n[c]#Do you like kids?
+cold#寒冷的#adj#It is cold.
+warm#温暧的#adj#It is warm.
+cool#凉爽的#adj#It is cool.
+snowy#下雪的#adj#It is snowy.
+sunny#晴朗的#adj#It is sunny.
+hot#炎热的#adj#It is hot.
+rainy#下雨的#adj#It is rainy.
+windy#有风的#adj#It is windy.
+cloudy#多云的#adj#It is cloudy.
